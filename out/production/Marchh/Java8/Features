@@ -1,0 +1,12 @@
+Functional interfaces
+Methods references
+Lambda expressions
+Stream API
+Optional Keyword
+Default and static in Interface
+LocalDatetime,LocalDate,LocalTime, Duration,
+
+
+
+Lambda expression will work only if we are working on a functional Interface.
+Lambda is also known as annonymus function.
